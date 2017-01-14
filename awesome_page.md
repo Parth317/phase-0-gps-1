@@ -3,7 +3,7 @@
 ##Examples of Markdown
 
 *This is a bold sentence*
-_This is an italicized sentence_
+This is not an italicized sentence
 
     <this>is a code</this>
     <it>is created by adding four spaces before</it>
