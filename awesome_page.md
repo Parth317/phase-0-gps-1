@@ -10,4 +10,4 @@ _This is an italicized sentence_
 
 This is a link to a [Shiba Inu](https://en.wikipedia.org/wiki/Shiba_Inu#/media/File:Taka_Shiba.jpg).
 
-![Parth & Govind working together on this Markdown File]()
+![Parth & Govind working together on this Markdown File](working-on-md-file.png)
